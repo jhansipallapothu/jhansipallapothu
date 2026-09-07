@@ -8,7 +8,7 @@
 
 📍 Chennai, TN
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-jhansisreeja.github.io-14b8a6?style=flat-square&logo=googlechrome&logoColor=white)](https://jhansisreeja.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-jhansipallapothu.github.io-14b8a6?style=flat-square&logo=googlechrome&logoColor=white)](https://jhansipallapothu.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-14b8a6?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhansi-sreeja-pallapothu-970190225/)
 [![Email](https://img.shields.io/badge/Email-pjhansisreeja477%40gmail.com-14b8a6?style=flat-square&logo=gmail&logoColor=white)](mailto:pjhansisreeja477@gmail.com)
 
@@ -65,7 +65,7 @@ multimedia feedback (LCD + audio).
 CNN built with TensorFlow/Python for handwritten Telugu character recognition, achieving 92%
 accuracy, with custom data preprocessing and augmentation pipelines for script-specific complexity.
 
-📄 More detail on my [portfolio site](https://jhansisreeja.github.io).
+📄 More detail on my [portfolio site](https://jhansipallapothu.github.io).
 
 <br />
 
@@ -73,7 +73,7 @@ accuracy, with custom data preprocessing and augmentation pipelines for script-s
 
 Reach out — I'm always up for talking about real-time systems, automotive protocols, or robotics.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-jhansisreeja.github.io-14b8a6?style=flat-square)](https://jhansisreeja.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-jhansipallapothu.github.io-14b8a6?style=flat-square)](https://jhansipallapothu.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-14b8a6?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhansi-sreeja-pallapothu-970190225/)
 
 </div>
