@@ -30,29 +30,14 @@ service the vehicles.
 - 🎓 B.Tech in Electronics & Communication Engineering, JNTUK — CGPA 8.97
 - 🧑‍🏫 Mentored 15+ students in embedded systems integration at a national-level hackathon (ACE @SRKR)
 
-## Tech Stack
+## Skills
 
-**Embedded & RTOS**
-
-![FreeRTOS](https://img.shields.io/badge/FreeRTOS-14b8a6?style=flat-square)
-![STM32](https://img.shields.io/badge/STM32-14b8a6?style=flat-square&logo=stmicroelectronics&logoColor=white)
-![PowerPC](https://img.shields.io/badge/MPC5775B_(PowerPC)-14b8a6?style=flat-square)
-![Arduino](https://img.shields.io/badge/Arduino-14b8a6?style=flat-square&logo=arduino&logoColor=white)
-
-**Languages & Tools**
-
-![C](https://img.shields.io/badge/C-14b8a6?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-14b8a6?style=flat-square&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-14b8a6?style=flat-square&logo=python&logoColor=white)
-![Make](https://img.shields.io/badge/GNU_Make-14b8a6?style=flat-square&logo=gnu&logoColor=white)
-
-**Automotive & Protocols**
-
-![CAN](https://img.shields.io/badge/CAN_Bus-14b8a6?style=flat-square)
-![UART](https://img.shields.io/badge/UART-14b8a6?style=flat-square)
-![SPI](https://img.shields.io/badge/SPI-14b8a6?style=flat-square)
-![I2C](https://img.shields.io/badge/I2C-14b8a6?style=flat-square)
-![HIL](https://img.shields.io/badge/HIL_Testing-14b8a6?style=flat-square)
+| | |
+|---|---|
+| **Embedded & RTOS** | FreeRTOS, Real-Time Scheduling, MPC5775B (PowerPC), STM32 (Cortex-M), Test Automation & Unit Testing, Static Code Analysis |
+| **Systems & Build** | GNU Make, Makefiles, Memory Allocation, Win32 API, UDP Socket Programming |
+| **Automotive & Protocols** | CAN (Diagnostics/Logging), UART, SPI, I2C, HIL Testing, MBD (Ansys SCADE, ETAS ASCET) |
+| **Development Tooling** | Python (PyQt5, python-can), Embedded C, C++, Ceedling, IXXAT, PEAK-System |
 
 ## Featured Projects
 
